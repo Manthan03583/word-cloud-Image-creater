@@ -16,7 +16,7 @@ root.maxsize(800,800)
 
 photo_frame = Frame(root,width = 120, borderwidth=6, relief=SUNKEN)
 
-image1=Image.open("capture.png")
+image1=Image.open("banner.png")
 
 photo1=ImageTk.PhotoImage(image1)
 

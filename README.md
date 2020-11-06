@@ -1,2 +1,4 @@
 # word-cloud-Image-creater
-A word cloud creater using tkinter gui and python
+This is word cloud creater using tkinter gui and python.
+As it is a beginner level project.
+it can make some word cloud image.
